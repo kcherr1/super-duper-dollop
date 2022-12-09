@@ -8,3 +8,5 @@ def foo():
   print('hello world')
 
 foo()
+
+print('x')
