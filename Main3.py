@@ -12,4 +12,4 @@ foo()
 print('x')
 
 def baz():
-  pass
+  print('baz')
