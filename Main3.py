@@ -10,3 +10,6 @@ def foo():
 foo()
 
 print('x')
+
+def baz():
+  pass
